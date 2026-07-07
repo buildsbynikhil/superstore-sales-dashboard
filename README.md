@@ -1,26 +1,9 @@
-# Superstore Sales Dashboard
-
-## Overview
-This project is an interactive Excel Sales Dashboard created using the Superstore dataset.
-
-## Features
-- Sales Analysis
-- Profit Analysis
-- Category-wise Performance
-- Region-wise Performance
-- Interactive Slicers
-- Pivot Tables
-- Pivot Charts
-
-## Tools Used
--Microsoft Excel
--Pivot Tables
--Pivot Charts
--Slicers
-
 ## Files
--train.csv.xlsx - Dataset
--Screenshot.png - Dashboard Preview
 
-## Author
-Nikhil Pandey
+-superstore-sales-dashboard.xlsx - Excel workbook containing the dataset and interactive dashboard
+-dashboard-preview.png - Dashboard preview
+
+## Dashboard Preview
+
+![Dashboard Preview]
+(dashboard-preview.png)
