@@ -26,3 +26,5 @@ This project is an interactive Excel Sales Dashboard built using the Superstore 
 ## Dashboard Preview
 
 ![Dashboard Preview](dashboard-preview.png)
+
+Click here to view ("https://buildsbynikhil.github.io/superstore-sales-dashboard/")
